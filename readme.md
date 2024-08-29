@@ -6,7 +6,7 @@ Feel free to give this repository a star if you enjoy the work.
 
 ## Table of Contents
 
-- [Review](#review)
+- [Reviews](#review)
 - [Image classification](#Image-classification)
 - [Obect detection](#Object-detection)
 - [Image segmentation](#Image-segmentation)
@@ -15,7 +15,7 @@ Feel free to give this repository a star if you enjoy the work.
 
 
 
-## Review <a name="review"></a>
+## Reviews <a name="review"></a>
 
 * ⭐️ 2024: Direct training high-performance deep spiking neural networks: a review of theories and methods. [paper] [code]
   
