@@ -18,6 +18,8 @@ Feel free to give this repository a star if you enjoy the work.
 ## Reviews <a name="review"></a>
 
 * ⭐️ 2024: Direct training high-performance deep spiking neural networks: a review of theories and methods. [paper] [code]
+
+* ⭐️ 2023: Direct Learning-Based Deep Spiking Neural Networks: A Review. [paper] [code]
   
 * ⭐️ 2020: Rethinking the performance comparison between SNNs and ANNs. [paper] [code]
 
