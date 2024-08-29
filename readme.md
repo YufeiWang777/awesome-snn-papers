@@ -2,14 +2,16 @@
 
 ## Description
 This repository is an up-to-date list of significant papers about Direct-trained Spiking Neural Network (SNN) in various fields. 
-% It covers five fields : image , natural language processing, audio processing, multimodal learning and reinforcement learning. 
 Feel free to give this repository a star if you enjoy the work.
-
 
 ## Table of Contents
 
 - [Review](#review)
 - [Image classification](#Image-classification)
+- [Obect detection](#Object-detection)
+- [Image segmentation](#Image-segmentation)
+- [Object tracking](#Object-tracking)
+- [Object recognition](#Object-recognition)
 
 
 
@@ -21,7 +23,7 @@ Feel free to give this repository a star if you enjoy the work.
 
 * ⭐️ 2020: Comparing SNNs and RNNs on neuromorphic vision datasets: similarities and differences. [paper] [code]
 
-## Image classification<a name="Image-classification"></a>
+## Image classification <a name="Image-classification"></a>
 
 ### CNN-based SNN
 
@@ -60,7 +62,8 @@ Feel free to give this repository a star if you enjoy the work.
 * ⭐️ 2022: Spikformer: when spiking neural network meets transformer. [paper] [code]
 
 
-## Image detection
+
+## Object detection <a name="Object-detection"></a>
 
 * ⭐️ 2024: SFOD: spiking fusion object detector. [paper] [code]
 
@@ -72,7 +75,7 @@ Feel free to give this repository a star if you enjoy the work.
 
 
 
-## Image segmentation
+## Image segmentation <a name="Image-segmentation"></a>
 
 * ⭐️ 2024: Spike-drive transformer v2: meta spiking neural network architecture inspiring the design of next-generation neuromorphic chips. [paper] [code]
 
@@ -82,9 +85,7 @@ Feel free to give this repository a star if you enjoy the work.
 
 
 
-
-
-## Object tracking
+## Object tracking <a name="Object-tracking"></a>
 
 * ⭐️ 2022: Spiking transformers for event-based single object tracking. [paper] [code]
 
@@ -95,7 +96,7 @@ Feel free to give this repository a star if you enjoy the work.
 * ⭐️ 2019: DashNet: a hybrid artificial and spiking neural network for high-speed object tracking. [paper] [code]
 
 
-## Object recognition
+## Object recognition  <a name="Object-recognition"></a>
 
 * ⭐️ 2024: Shrinking Your TimeStep: towards low-latency neuromorphic object recognition with spiking neural networks. [paper] [code]
 
