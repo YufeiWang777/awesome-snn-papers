@@ -12,6 +12,7 @@ Feel free to give this repository a star if you enjoy the work.
 - [Image segmentation](#Image-segmentation)
 - [Object tracking](#Object-tracking)
 - [Object recognition](#Object-recognition)
+- [Point cloud](#Point-cloud)
 
 
 
@@ -101,6 +102,10 @@ Feel free to give this repository a star if you enjoy the work.
 ## Object recognition  <a name="Object-recognition"></a>
 
 * ⭐️ 2024: Shrinking Your TimeStep: towards low-latency neuromorphic object recognition with spiking neural networks. [paper] [code]
+
+## Point cloud  <a name="Point-cloud"></a>
+
+* ⭐️ 2024: Spiking pointnet: Spiking neural networks for point clouds. [paper] [code]
 
 
 
